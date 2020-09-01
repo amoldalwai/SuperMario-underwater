@@ -9,7 +9,7 @@ A retro style Super Mario game inspired from old school mario underwater level/w
 ![GitHub top language](https://img.shields.io/github/languages/top/amoldalwai/SuperMario-underwater?style=plastic)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/amoldalwai/SuperMario-underwater?style=plastic)
 
-![Demonstartion Video](https://j.gifs.com/p8A1nN.gif)
+![Demonstartion Video](https://gifs.com/gif/L7rExD)
 
 
 ## Demo Link :point_right::[https://amoldalwai.github.io/RoadFighter/](https://amoldalwai.github.io/RoadFighter/)
