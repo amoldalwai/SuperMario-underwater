@@ -2,7 +2,7 @@
 
 
 
-# SuperMario-underwater    :video_game:
+# SuperMario-underwater     :video_game:
 
 A retro style Super Mario game inspired from old school mario underwater level/world  built using HTML, CSS &amp;  JS ,in which the player can control the movement of the Super mario using right mouse click  to swim away from incoming enemies.
 
@@ -12,7 +12,7 @@ A retro style Super Mario game inspired from old school mario underwater level/w
 ![Demonstartion Video](https://j.gifs.com/D1j5OK.gif)
 
 
-## Demo Link :point_right: [https://amoldalwai.github.io/RoadFighter/](https://amoldalwai.github.io/RoadFighter/)
+## Demo Link :point_right: [https://amoldalwai.github.io/SuperMario-underwater/](https://amoldalwai.github.io/SuperMario-underwater/)
 
 
 ## Features 
@@ -21,7 +21,7 @@ A retro style Super Mario game inspired from old school mario underwater level/w
 - [x] Control Super Mario movement with right mouse click
 - [x] Multiple enemies including squid , piranha and underwater foliage
 - [x] Collision Detection
-- [x] Random enemy car movement
+- [x] Random enemy  movement
 - [x] Score tracking
 - [ ] Difficulty Level
 
