@@ -13,7 +13,6 @@ A retro style Super Mario game inspired from old school mario underwater level/w
 
 #### Table of Contents  
 [Features](#Features)  
-[Demo](#Demo-Link)\
 [Youtube](#Youtube)\
 [Installing](#Installing)
 
