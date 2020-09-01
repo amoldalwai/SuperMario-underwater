@@ -12,29 +12,29 @@ A retro style Super Mario game inspired from old school mario underwater level/w
 ![Demonstartion Video](https://j.gifs.com/D1j5OK.gif)
 
 
-## Demo Link :point_right::[https://amoldalwai.github.io/RoadFighter/](https://amoldalwai.github.io/RoadFighter/)
+## Demo Link :point_right: [https://amoldalwai.github.io/RoadFighter/](https://amoldalwai.github.io/RoadFighter/)
 
 
 ## Features 
 
 
-- [x] Control Player car movement with Arrow keys
-- [x] Two modes with different background
-- [x] Multiple enemy cars and obstruction
+- [x] Control Super Mario movement with right mouse click
+- [x] Multiple enemies including squid , piranha and underwater foliage
 - [x] Collision Detection
-- [ ] Random enemy car movement
+- [x] Random enemy car movement
+- [x] Score tracking
 - [ ] Difficulty Level
 
 
 ## Demonstration video on Youtube
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=TOLQMlnQpvk
-" target="_blank"><img src="http://img.youtube.com/vi/TOLQMlnQpvk/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=pPQoJknhYQE
+" target="_blank"><img src="http://img.youtube.com/vi/pPQoJknhYQE/0.jpg" 
 alt="RoadFighter " width="240" height="180" border="10" /></a>
 
-![YouTube Video Views](https://img.shields.io/youtube/views/TOLQMlnQpvk?style=plastic)
-![YouTube Video Votes](https://img.shields.io/youtube/likes/TOLQMlnQpvk?style=social&withDislikes)
-![YouTube Video Comments](https://img.shields.io/youtube/comments/TOLQMlnQpvk?style=social)
+![YouTube Video Views](https://img.shields.io/youtube/views/pPQoJknhYQE?style=plastic)
+![YouTube Video Votes](https://img.shields.io/youtube/likes/pPQoJknhYQE?style=social&withDislikes)
+![YouTube Video Comments](https://img.shields.io/youtube/comments/pPQoJknhYQE?style=social)
 
 
 ### Installing
