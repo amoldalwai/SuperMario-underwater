@@ -14,7 +14,7 @@ A retro style Super Mario game inspired from old school mario underwater level/w
 #### Table of Contents  
 [Features](#Features)  
 [Installing](#Installing)
-[Youtube](#DemonstrationvideoonYoutube )
+[Youtube](#Youtube)
 
 ![Demonstartion Video](https://j.gifs.com/D1j5OK.gif)
 
@@ -33,7 +33,7 @@ A retro style Super Mario game inspired from old school mario underwater level/w
 - [ ] Difficulty Level
 
 
-## Demonstration video on Youtube
+## Youtube
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=pPQoJknhYQE
 " target="_blank"><img src="http://img.youtube.com/vi/pPQoJknhYQE/0.jpg" 
