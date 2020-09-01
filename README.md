@@ -6,8 +6,8 @@ A retro style Super Mario game built using HTML, CSS &amp;  JS featuring the und
 
 A retro style Super Mario game inspired from old school mario underwater level/world  built using HTML, CSS &amp;  JS ,in which the player can control the movement of the Super mario using right mouse click  to swim away from incoming enemies.
 
-![GitHub top language](https://img.shields.io/github/languages/top/amoldalwai/?style=plastic)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/amoldalwai/RoadFighter?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/amoldalwai/SuperMario-underwater?style=plastic)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/amoldalwai/SuperMario-underwater?style=plastic)
 
 ![Demonstartion Video](https://j.gifs.com/p8A1nN.gif)
 
