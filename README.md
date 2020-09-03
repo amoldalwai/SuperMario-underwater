@@ -2,7 +2,7 @@
 
 
 
-# SuperMario-underwater     :ocean: :fish: :octopus: :video_game:
+# SuperMario-underwater     <img src="https://emojis.slackmojis.com/emojis/images/1450319446/47/mario.gif?1450319446"  width="30" height="30" />
 
 A retro style Super Mario game inspired from old school mario underwater level/world  built using HTML, CSS &amp;  JS ,in which the player can control the movement of the Super mario using right mouse click  to swim away from incoming enemies.
 
